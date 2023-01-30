@@ -1,0 +1,11 @@
+.cityContainer {
+  display: flex;
+  padding-top: 20px;
+  padding-left: 20px;
+}
+
+.text {
+  align-self: center;
+  padding-right: 8px;
+  padding-left: 16px;
+}
